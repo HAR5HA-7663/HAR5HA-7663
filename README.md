@@ -1,70 +1,79 @@
-# Hi, I'm Harsha Vardhan Yellela 👋  
-
-🎓 MS in Computer Science @ Lawrence Technological University (Michigan)  
-💻 Backend Engineer | AI/ML Enthusiast | Cloud Developer  
-📍 Based in Michigan (EST) | Originally from India  
+<h1 align="center">Hi 👋, I'm Harsha Vardhan Yellela</h1>
+<h3 align="center">Backend Engineer | AI/ML Enthusiast | Cloud Developer</h3>
+<p align="center">📍 Based in Michigan, USA | Originally from India</p>
 
 ---
 
-## 🔧 Tech Stack  
-
-`Python` `JavaScript` `SQL`  
-`FastAPI` `Flask` `TensorFlow` `LangChain`  
-`AWS (Lambda, SageMaker, Bedrock)` `DynamoDB` `PostgreSQL`  
-`Docker` `GitHub Actions (CI/CD)` `Pydantic` `BeautifulSoup`  
-`Infor LN / ION` `ERP Workflows`  
+### 🚀 About Me
+- 🎓 MS in Computer Science @ **Lawrence Technological University (Michigan)**  
+- 🔭 Currently building **AI-driven products** like [Resumade.in](https://resumade.in/)  
+- 🌱 Exploring **Agentic AI frameworks** (CrewAI, LangChain, AutoGen)  
+- ⚡ Fun Fact: I built a **dual RTX 3090 rig** for large-scale AI experiments in my home lab.  
 
 ---
 
-## 📊 Featured Projects  
+### 🛠️ Tech Stack
 
-### [Resumade.in – AI Resume Builder](https://resumade.in/)  
-> Backend engineer for an AI-powered resume automation tool:  
-> - FastAPI + AWS Lambda + DynamoDB serverless architecture  
-> - Multi-LLM pipelines (GPT-4, Gemini, DeepSeek) for tailored resumes  
-> - Secure auth with JWT & Google OAuth  
-> - Sub-2s resume generation with 95%+ uptime  
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+</p>
 
----
-
-### [AgenticAI – Newsletter Automation (Code vs. No-Code)](https://github.com/HAR5HA-7663)  
-> Automated newsletter generation pipeline with AI agents:  
-> - Compared **CrewAI + LangChain** (code-first) vs **n8n** (no-code)  
-> - Benchmarked latency, reliability, and dev speed  
-> - Achieved 70% reduction in manual workload  
-
----
-
-### [Sentiment-Driven NVDA Market Forecasting](https://github.com/HAR5HA-7663)  
-> Time-series deep learning pipeline using financial + sentiment signals:  
-> - Combined **Reddit NLP (VADER, virality scoring)** with OHLCV + VIX  
-> - 7-day rolling **LSTM model** trained on SageMaker  
-> - Scalable dataset management with Amazon FinSpace  
+💡 Also experienced with:  
+`LangChain` `AWS Lambda/SageMaker/Bedrock` `DynamoDB` `BeautifulSoup`  
+`Infor LN/ION ERP Workflows` `Pydantic` `CI/CD with GitHub Actions`
 
 ---
 
-### [Pneumonia Detection – Medical Imaging](https://github.com/HAR5HA-7663)  
-> Deep learning pipeline for chest X-ray classification:  
-> - Transfer learning with **VGG19** + custom classifier layers  
-> - 60% faster training on AWS SageMaker vs local GPUs  
-> - Deployed Flask app for real-time inference  
+### 📊 Featured Projects
+
+#### 🔹 [Resumade.in – AI Resume Builder](https://resumade.in/)  
+Backend engineer for an **AI-powered resume automation tool**  
+- Serverless stack: **FastAPI + AWS Lambda + DynamoDB**  
+- Multi-LLM pipelines: GPT-4, Gemini, DeepSeek  
+- Secure auth with **JWT & Google OAuth**  
+- Sub-2s resume generation, 95%+ uptime  
+
+#### 🔹 [AgenticAI – Newsletter Automation](https://github.com/HAR5HA-7663)  
+Automated newsletter pipeline with AI agents  
+- Benchmarked **CrewAI + LangChain (code-first)** vs **n8n (no-code)**  
+- Cut manual workload by **70%**  
+- Measured tradeoffs: latency, reliability, and dev speed  
+
+#### 🔹 [Sentiment-Driven NVDA Market Forecasting](https://github.com/HAR5HA-7663)  
+Hybrid financial + sentiment pipeline for stock forecasting  
+- **Reddit NLP (VADER + virality scoring)** + OHLCV + VIX  
+- **LSTM model** trained on SageMaker  
+- Dataset management with Amazon FinSpace  
+
+#### 🔹 [Pneumonia Detection – Medical Imaging](https://github.com/HAR5HA-7663)  
+Deep learning pipeline for chest X-rays  
+- Transfer learning: **VGG19 + custom layers**  
+- Trained **60% faster** on SageMaker vs local GPUs  
+- Flask web app for real-time inference  
 
 ---
 
-## 🌱 Currently Exploring  
-
-- Agentic AI systems & orchestration frameworks (CrewAI, LangChain, AutoGen)  
-- AI-driven resume analysis & ATS scoring pipelines  
-- Cloud-native ML deployment at scale  
+### 🌐 Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/har5ha-7663" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://github.com/HAR5HA-7663" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
+</a>
+<a href="mailto:harsha.yellela@gmail.com" target="blank">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="40" />
+</a>
+</p>
 
 ---
 
-## 📫 Let’s Connect  
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/har5ha-7663)  
-- 🐍 [GitHub](https://github.com/HAR5HA-7663)  
-- ✉️ harsha.yellela@gmail.com  
-
----
-
-⭐️ *Fun Fact: I built my own dual RTX 3090 rig to experiment with AI models and push large-scale training workloads from my home lab.*
+⭐ *"Bridging backend engineering with intelligent AI systems to build scalable, cloud-native solutions."*
